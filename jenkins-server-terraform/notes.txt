@@ -1,0 +1,4 @@
+Outputs:
+
+instance_id = "i-0c423574cdc94948f"
+instance_public_ip = "54.190.142.91"
